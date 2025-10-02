@@ -66,7 +66,7 @@ ecommerce-data-pipeline/
 
 Below is the **Entity Relationship Diagram (ERD)** for the E-Commerce dataset used in this pipeline:
 
-![E-Commerce ERD](./Ecommerce_ERD.png)
+![E-Commerce ERD](./Ecommerce%20ERD.png)
 
 The ERD illustrates the relationships between **customers, orders, products, and deliveries** — the same structure that is simulated, ingested, and transformed in this pipeline.
 
