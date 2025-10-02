@@ -277,8 +277,8 @@ This project is licensed under the **MIT License**.
 
 ## 📬 Contact
 
-* 🌐 **Portfolio**: [https://kibutujr.vercel.app](https://kibutujr.vercel.app)
-* 💼 **LinkedIn**: [https://www.linkedin.com/in/fred-kibutu](https://www.linkedin.com/in/fred-kibutu)
-* 📧 **Email**: [kibutujrfred@gmail.com](mailto:kibutujrfred@gmail.com)
+* 🌐 [**Portfolio**](https://kibutujr.vercel.app)
+* 💼 [**LinkedIn**](https://www.linkedin.com/in/fred-kibutu)
+* 📧 [**Email**](mailto:kibutujr@gmail.com)
 
 ---
